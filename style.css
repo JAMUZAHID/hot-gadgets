@@ -1,0 +1,52 @@
+.btnn{
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    background: black;
+    border-radius: 10px;
+}
+.st-con{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+.st-con-a{
+    background-image: url(bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.second-c{
+    margin-top: 50px;
+}
+
+.see{
+    text-decoration: none;
+    color: orange;
+    font-weight: 700;
+    float: right;
+}
+.phone{
+    padding: 30px;
+}
+.card.h-100{
+    margin: 20px;
+    border: none;
+}
+.see-link{
+    text-decoration: none;
+    color: orange;
+    font-weight: 700;
+}
+.cat1{
+    width: 450px;
+}
+.last-c{
+    margin-top: 40px;
+    padding: 50px;
+}
+.pale-order{
+    height: 400px;
+    width: 400px;
+}
